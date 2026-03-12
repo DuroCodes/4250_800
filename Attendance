@@ -4,6 +4,7 @@ The first class, you will need to find your enumber and add today's date next to
 Please leave blank line between entries. If you don't see your enumber, please add it (leaving a blank line on either side of it) and add the date.
 For subsequent classes, change the date to the keyword I give you at the start of class.
 
+E00762840: 2/24/2026 I'm learning release management
 E00769563 i am learning more testing and activity
 E00762840: 2/10/2026 I'm learning about software design
 E00760025: I am learning software design today.
@@ -31,7 +32,7 @@ E00762840: 2/5/2026 I'm learning about scrum requirments.
 
 E00761240 Payton Scott: I am doing Sprint1 Demo.
 E00760025: I am learning SCRUM requirements today
-E00761240 Payton Scott: I am learning testing and doing an Activity.
+E00761240 Payton Scott: I am learning software release today.
 
 E00773451: 1/22/2026
 E00762840: 2/3/2026 I'm learning about requirments
@@ -61,7 +62,7 @@ E00773450 1/20/2026
 
 E00773450: 1/22/2026
 
-E00766705  3/5/2026 I am learning Testing and doing an Activity
+E00766705  3/10/2026 I am learning software release today
 
 E00773451: 1/22/2026
 
@@ -158,3 +159,4 @@ E00765108 2-26-26 Test review
 #00765108 3-3-26 I am learning testing
 
 E00763804 - 2/10/2026 I'm learning about Software Release
+E00765108 3-10-26 Were learning release.
